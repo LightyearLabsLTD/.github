@@ -6,7 +6,6 @@
 
 <p align="center">
 <h1 align="center">🚀 Lightyear Labs</h1>
-<sub>Innovate. Accelerate. Elevate.</sub>
 <p align="center">Innovate. Accelerate. Elevate.</p>
 </p>
 

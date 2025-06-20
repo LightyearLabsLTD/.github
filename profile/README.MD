@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center" style="font-size:24px;">🚀 Lightyear Labs</p>
+<p align="center" style="font-size:42px;">🚀 Lightyear Labs</p>
 <p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
 
 <p align="center">

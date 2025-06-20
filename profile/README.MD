@@ -4,6 +4,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://lightyearlabs.net">
+    <img src="https://www.lightyearlabs.net/logo.png" alt="Lightyear Labs Logo" width="150">
+  </a>
+</p>
+
+<h1 align="center">🚀 Lightyear Labs</h1>
+<p align="center" style="font-size:1.3em; font-weight:400;">
+  Innovate. Accelerate. Elevate.
+</p>
+
 <h1 align="center">🚀 Lightyear Labs<br>
   <span style="font-size:1.3em; font-weight:400;">Innovate. Accelerate. Elevate.</span>
 </h1>

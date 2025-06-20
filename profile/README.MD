@@ -8,7 +8,7 @@
 ### Innovate. Accelerate. Elevate.
 
 
-<h1 align="center">🚀 Lightyear Labs<br><h3>Innovate. Accelerate. Elevate.</h3></h1>
+<h2 align="center">🚀 Lightyear Labs<br><h3>Innovate. Accelerate. Elevate.</h3></h2>
 <p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
 
 <p align="center">

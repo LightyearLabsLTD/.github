@@ -31,4 +31,4 @@
 - Email: `hello@lightyearlabs.net`
 - Website: [https://lightyearlabs.net](https://lightyearlabs.net)
 
-<sub>Made with 💫 by **Lightyear Labs**</sub>
+<sub>Made with ❤️ by **Lightyear Labs**</sub>

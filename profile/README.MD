@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<h1>Testing</h1>
-<h3>helloo</h3>
+<h1 align="center">🚀 Lightyear Labs</h1>
+<p>Innovate. Accelerate. Elevate.</p>
 </p>
 
 <h1 align="center">🚀 Lightyear Labs<br>

@@ -7,22 +7,6 @@
 <h1 align="center">🚀 Lightyear Labs</h1>
 <p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
 
-<div align="center">
-  <button style="margin: 6px; padding: 10px 16px; background-color: #5865F2; color: white; border: none; border-radius: 6px; font-weight: bold; font-family: sans-serif;">
-    🗨️ Join our Discord
-  </button>
-  <button style="margin: 6px; padding: 10px 16px; background-color: #0A66C2; color: white; border: none; border-radius: 6px; font-weight: bold; font-family: sans-serif;">
-    🌐 Visit Website
-  </button>
-  <button style="margin: 6px; padding: 10px 16px; background-color: #25D366; color: white; border: none; border-radius: 6px; font-weight: bold; font-family: sans-serif;">
-    📧 Contact Us
-  </button>
-  <button style="margin: 6px; padding: 10px 16px; background-color: #333333; color: white; border: none; border-radius: 6px; font-weight: bold; font-family: sans-serif;">
-    💻 View Projects
-  </button>
-</div>
-
-
 <p align="center">
   <a href="https://discord.lightyearlabs.net" target="_blank" style="outline: none;">
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord">

@@ -1,12 +1,14 @@
 <p align="center">
-  <a href="https://discord.lightyearlabs.net" target="_blank">
-    <img src="https://assets-cdn.sums.su/LU/images/discordbanner.png" alt="Join our Discord" style="max-width:100%;">
+  <a href="https://https://lightyearlabs.net" target="_blank">
+    <img src="https://www.lightyearlabs.net/logo.png" alt="Lightyear Labs Logo" width="150">
   </a>
 </p>
 
 <h1 align="center">🚀 Lightyear Labs</h1>
 <p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
+
 <hr>
+
 <h2>💼 Our Services</h2>
 
 <ul>
@@ -21,10 +23,10 @@
 
 <h2>🌍 Join the Community</h2>
 
-<p>Want updates, early previews, or just to hang out?</p>
-
 <p>
-  👉 <a href="https://discord.lightyearlabs.net"><strong>Join our Discord</strong></a>
+  <a href="https://discord.lightyearlabs.net" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord">
+  </a>
 </p>
 
 <hr>

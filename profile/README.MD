@@ -1,4 +1,8 @@
-[![Lightyear Labs Logo](https://www.lightyearlabs.net/logo.png)](https://lightyearlabs.net)
+<p align="center">
+  <a href="https://lightyearlabs.net">
+    <img src="https://www.lightyearlabs.net/logo.png" alt="Lightyear Labs Logo" width="150">
+  </a>
+</p>
 
 # 🚀 Lightyear Labs
 

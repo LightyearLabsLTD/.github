@@ -35,25 +35,7 @@
 </ul>
 
 <hr>
-
-<h2>🌍 Join the Community</h2>
-
-<p>Want updates, sneak peeks, or just to chat? <strong>Join our Discord</strong> and connect with our community.</p>
-
-<p>
-  👉 <a href="https://discord.lightyearlabs.net">https://discord.lightyearlabs.net</a>
-</p>
-
-<hr>
-
-<h2>📦 Open Source</h2>
-
-<p>We build powerful frameworks and developer tools. Explore our public work at <a href="https://github.com/Lightyear-Labs">github.com/Lightyear-Labs</a>.</p>
-
-<hr>
-
 <h2>📫 Contact</h2>
-
 <ul>
   <li>Email: <code>hello@lightyearlabs.net</code></li>
   <li>Website: <a href="https://lightyearlabs.net">https://lightyearlabs.net</a></li>

@@ -4,9 +4,8 @@
   </a>
 </p>
 
-# 🚀 Lightyear Labs
-
-*Innovate. Accelerate. Elevate.*
+<h1 align="center">🚀 Lightyear Labs</h1>
+<p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
 
 [![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.lightyearlabs.net)
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](https://lightyearlabs.net)

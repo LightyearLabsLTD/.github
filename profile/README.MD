@@ -8,7 +8,7 @@
 <p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
 
 <p align="center">
-  <a href="https://discord.lightyearlabs.net" target="_blank" style="outline: none;">
+  <a href="https://discord.lightyearlabs.net" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord">
   </a>&nbsp;
   <a href="https://lightyearlabs.net" target="_blank" style="outline: none;">

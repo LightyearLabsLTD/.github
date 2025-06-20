@@ -8,16 +8,16 @@
 <p align="center"><em>Innovate. Accelerate. Elevate.</em></p>
 
 <p align="center">
-  <a href="https://discord.lightyearlabs.net" target="_blank">
+  <a href="https://discord.lightyearlabs.net" target="_blank" style="outline: none;">
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord">
   </a>&nbsp;
-  <a href="https://lightyearlabs.net" target="_blank">
+  <a href="https://lightyearlabs.net" target="_blank" style="outline: none;">
     <img src="https://img.shields.io/badge/Visit%20Website-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Visit Website">
   </a>&nbsp;
-  <a href="mailto:hello@lightyearlabs.net" target="_blank">
+  <a href="mailto:hello@lightyearlabs.net" target="_blank" style="outline: none;">
     <img src="https://img.shields.io/badge/Contact%20Us-25D366?logo=gmail&logoColor=white&style=for-the-badge" alt="Contact Us">
   </a>&nbsp;
-  <a href="https://github.com/Lightyear-Labs" target="_blank">
+  <a href="https://github.com/Lightyear-Labs" target="_blank" style="outline: none;">
     <img src="https://img.shields.io/badge/View%20Projects-333333?logo=github&logoColor=white&style=for-the-badge" alt="View Projects">
   </a>
 </p>
